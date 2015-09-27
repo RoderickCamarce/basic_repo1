@@ -14,11 +14,22 @@ div.header{
 	background-color: white;
 }
 
+	div.header img{
+		width:100px;
+		height:90px;
+	}
+
 div.nav_bar{
 	width: 900px;
 	height: 100px;
 	background-color: gray;
 }
+	div.nav_bar ul,li,a{
+		display: inline;
+		text-decoration: none;
+		color:white;
+		margin:20px;
+	}
 
 div.main_body{
 	width:900px;
