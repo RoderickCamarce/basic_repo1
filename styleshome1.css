@@ -1,0 +1,27 @@
+*{
+
+}
+
+
+div.container{
+	width:900px;	
+	background-color: black;
+}
+
+div.header{
+	width:900px;
+	height:100px;
+	background-color: white;
+}
+
+div.nav_bar{
+	width: 900px;
+	height: 100px;
+	background-color: gray;
+}
+
+div.main_body{
+	width:900px;
+	height:600px;
+	background-color: white;
+}
